@@ -1,6 +1,10 @@
 [![Header](https://github.com/BladislaB/bladislab/blob/master/assets/bg.jpg)](https://bladislab.github.io/)
 
-## i'm Web-developer and freelancer
+# Hi there 👋, I'm Vlad. 25 y.o.
+#### 🌐 i'm Web-developer and freelancer
+#### 💪 I like to write code
+#### 🎉 I love to paint and play the guitar
+#### 🥅 I am constantly learning new things
 
 ## Languages and Tools
 
